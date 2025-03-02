@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luna.CPU", "Luna.CPU\Luna.CPU.csproj", "{2D487D56-9BCB-0151-E7A4-316E8A2DBFAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luna.CPU.Tests", "Luna.CPU.Tests\Luna.CPU.Tests.csproj", "{003069F7-AD38-5CDA-07AB-72264415FEB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D487D56-9BCB-0151-E7A4-316E8A2DBFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D487D56-9BCB-0151-E7A4-316E8A2DBFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D487D56-9BCB-0151-E7A4-316E8A2DBFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D487D56-9BCB-0151-E7A4-316E8A2DBFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{003069F7-AD38-5CDA-07AB-72264415FEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003069F7-AD38-5CDA-07AB-72264415FEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003069F7-AD38-5CDA-07AB-72264415FEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003069F7-AD38-5CDA-07AB-72264415FEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6159FD3-1E84-47E6-8FF1-4F1BD2347EE5}
+	EndGlobalSection
+EndGlobal
